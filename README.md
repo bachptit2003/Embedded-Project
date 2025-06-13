@@ -1,4 +1,6 @@
-BeagleBone Black Environmental Monitoring System
+# BeagleBone Black Environmental Monitoring System
+
+
 🌱 Giới thiệu
 Đây là dự án Hệ thống đo đạc nhiệt độ, độ ẩm và môi trường sử dụng BeagleBone Black (BBB). Dự án được xây dựng với mục tiêu:
 
